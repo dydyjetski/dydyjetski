@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 42 Le Havre Student<br>🌟 Exploring my passion for development – from Django, C, C++, to Docker 🚀<br>📅 Wants to learn something new every day ☀️<br>🎮 Huge fan of creating addons for Garry's Mod (yes, the legendary 2004 game!) ❤️<br>🧑‍💻 Always learning, always coding 🙂
+👨‍🎓  𝟒𝟐 𝐋𝐞 𝐇𝐚𝐯𝐫𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 <br>🌟 Exploring my passion for development – from Django, C, C++, to Docker 🚀<br>📅 Wants to learn something new every day ☀️<br>🎮 Huge fan of creating addons for Garry's Mod (yes, the legendary 2004 game!) ❤️<br>🧑‍💻 Always learning, always coding 🙂
 
 
 ## 🌐 Socials:
